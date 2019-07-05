@@ -1,1 +1,2 @@
-# proyecto definitivo
+# game
+Proyecto final de POO
